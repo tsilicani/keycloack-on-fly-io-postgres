@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "up": "docker compose up",
+    "open:keycloack": "open http://localhost:8080"
+  }
+}
